@@ -1,2 +1,1 @@
-# wisielec
-Prosta gra w wisielca napisana w PHP
+Gra Typu Wisielec, wpisz nazwe użytkownika, wybierz poziom trudności i rozpocznij grę!

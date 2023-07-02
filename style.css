@@ -1,0 +1,59 @@
+body {
+    background: #1d1d1d !important;
+    font-family: 'Muli', sans-serif;
+
+}
+
+h1 {
+    color: #fff;
+    padding-bottom: 2rem;
+    font-weight: bold;
+}
+h5 {
+    color: #fff;
+    padding-bottom: 2rem;
+    font-weight: bold;
+}
+
+a {
+    color: #333;
+}
+
+a:hover {
+    color: hsl(34, 83%, 68%);
+    text-decoration: none;
+}
+
+.form-control:focus {
+    color: #000;
+    background-color: #fff;
+    border: 2px solid hsl(34, 83%, 68%);
+    outline: 0;
+    box-shadow: none;
+
+}
+
+.btn-primary {
+    background: hwb(34 45% 0%);
+    border: hwb(34 45% 0%);
+}
+
+.btn {
+    color: #fff;
+    background: hsl(34, 83%, 68%);
+    border: hsl(34, 83%, 68%);
+}
+
+.btn:hover {
+    background: hwb(34 32% 29%);
+    border: hwb(34 32% 29%);
+}
+
+.btn:active .btn:focus .btn:visited {
+    background: hwb(34 45% 0%);
+    border: hwb(34 45% 0%);
+}
+
+th, td {
+    padding: 0 15px 0 0;
+}
